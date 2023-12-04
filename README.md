@@ -1,6 +1,6 @@
 <h1 align="center">☁️Clouded mind☁️</h1>
 
-- _❄ List of hakatons_
+- _❄ List of hakatons and competition_
 
 - _Datawagon 2023: 10.11.23 - 12.10.23 (14 place) | Online_
 
