@@ -6,4 +6,4 @@
 
 - _Цифровой прорыв 2023 International: 23.11.23 - 26.11.23 (7 place pro/1 place newbie) | Offline, Moscow_
 
-- _Yandex Intern Codebattle 2023: 10.12.23() | Online_
+- __
